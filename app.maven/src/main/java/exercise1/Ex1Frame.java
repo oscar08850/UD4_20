@@ -14,7 +14,7 @@ import java.awt.event.ActionEvent;
 public class Ex1Frame extends JFrame {
 
 	private JPanel contentPane;
-	int sizeFont = 12;
+	private int sizeFont = 12;
 
 
 	/**
